@@ -1,0 +1,59 @@
+{"datetime": "2022-03-09T21:07:44.285905Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T21:07:44.291914Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "ExceptionErr", "team_name_blue": "Griffins", "match_id": "sim2d_1_g2_r1_2", "halftime": 1}}
+{"datetime": "2022-03-09T21:09:18.637874Z", "matchtime": 40.063999999977796, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:10:14.559672Z", "matchtime": 65.21599999996386, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-03-09T21:10:22.539431Z", "matchtime": 68.22399999996219, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T21:10:35.138573Z", "matchtime": 72.95999999995956, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2022-03-09T21:10:43.834221Z", "matchtime": 75.9679999999579, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:12:06.276518Z", "matchtime": 104.95999999995689, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T21:12:14.271555Z", "matchtime": 107.71199999995781, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:13:30.767738Z", "matchtime": 134.39999999996672, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2022-03-09T21:13:39.607002Z", "matchtime": 137.40799999996773, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T21:14:47.417404Z", "matchtime": 159.87199999997523, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T21:14:58.728198Z", "matchtime": 163.77599999997653, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:15:48.535783Z", "matchtime": 178.87999999998158, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2022-03-09T21:15:58.476426Z", "matchtime": 181.88799999998258, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T21:16:47.614037Z", "matchtime": 198.91199999998827, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:16:57.859092Z", "matchtime": 202.5599999999895, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 2, "score_blue": 3}}
+{"datetime": "2022-03-09T21:17:06.722664Z", "matchtime": 205.5679999999905, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:17:25.831952Z", "matchtime": 212.2239999999927, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2022-03-09T21:17:34.661765Z", "matchtime": 215.23199999999372, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T21:18:07.602734Z", "matchtime": 226.68799999999754, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 3, "score_blue": 4}}
+{"datetime": "2022-03-09T21:18:16.453714Z", "matchtime": 229.69599999999855, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:19:00.059280Z", "matchtime": 244.8000000000036, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T21:19:06.306901Z", "matchtime": 247.04000000000434, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T21:19:09.596592Z", "matchtime": 248.1280000000047, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:21:04.095730Z", "matchtime": 287.74400000001793, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:21:05.197394Z", "matchtime": 288.12800000001806, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T21:21:08.133263Z", "matchtime": 289.2160000000184, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:21:16.907145Z", "matchtime": 292.22400000001943, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T21:21:18.739081Z", "matchtime": 292.86400000001964, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 4, "score_blue": 4}}
+{"datetime": "2022-03-09T21:21:27.555270Z", "matchtime": 295.87200000002065, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:22:57.872002Z", "matchtime": 325.3760000000305, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:23:01.512093Z", "matchtime": 326.3360000000308, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:23:13.937217Z", "matchtime": 330.4960000000322, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 5, "score_blue": 4}}
+{"datetime": "2022-03-09T21:23:22.422660Z", "matchtime": 333.5040000000332, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:24:06.119071Z", "matchtime": 348.6080000000362, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T21:24:09.789215Z", "matchtime": 349.8880000000361, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:24:12.718213Z", "matchtime": 350.91200000003596, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T21:24:19.335937Z", "matchtime": 353.28000000003567, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T21:25:03.019643Z", "matchtime": 368.384000000034, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T21:25:42.683654Z", "matchtime": 382.1440000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:26:26.641263Z", "matchtime": 396.03200000003096, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:27:43.445265Z", "matchtime": 422.40000000002806, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:28:00.666293Z", "matchtime": 428.2880000000274, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T21:28:01.413318Z", "matchtime": 428.60800000002735, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T21:30:53.752796Z", "matchtime": 487.2320000000209, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:33:12.544909Z", "matchtime": 534.3360000000157, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 5, "score_blue": 5}}
+{"datetime": "2022-03-09T21:33:21.024351Z", "matchtime": 537.3440000000155, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T21:33:31.284198Z", "matchtime": 540.9280000000156, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 6, "score_blue": 5}}
+{"datetime": "2022-03-09T21:33:40.168178Z", "matchtime": 543.9360000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:34:23.734167Z", "matchtime": 559.0400000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T21:34:30.007859Z", "matchtime": 561.2800000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:34:30.363536Z", "matchtime": 561.3440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T21:34:34.415998Z", "matchtime": 562.8160000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T21:34:45.433152Z", "matchtime": 566.5920000000156, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 7, "score_blue": 5}}
+{"datetime": "2022-03-09T21:34:54.281422Z", "matchtime": 569.6000000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T21:35:37.592939Z", "matchtime": 584.7040000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T21:36:08.464772Z", "matchtime": 595.0720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T21:36:22.749409Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 7, "score_blue": 5, "team_name_yellow": "ExceptionErr", "team_name_blue": "Griffins"}}
