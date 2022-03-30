@@ -1,0 +1,93 @@
+{"datetime": "2022-03-11T08:22:45.879544Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-11T08:22:45.885541Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Specijalci", "team_name_blue": "Salam Farmanieh", "match_id": "sim2d_1_g4_r1_1", "halftime": 1}}
+{"datetime": "2022-03-11T08:22:59.286205Z", "matchtime": 6.207999999996559, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-03-11T08:23:07.634748Z", "matchtime": 9.215999999994892, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:23:45.594171Z", "matchtime": 24.31999999998652, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:23:47.035733Z", "matchtime": 24.831999999986238, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:23:52.480466Z", "matchtime": 26.815999999985138, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:24:36.606555Z", "matchtime": 41.91999999997677, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:24:39.898522Z", "matchtime": 43.007999999976164, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:24:44.309724Z", "matchtime": 44.47999999997535, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:25:20.420027Z", "matchtime": 57.023999999968396, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:25:23.715708Z", "matchtime": 58.11199999996779, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:26:04.528155Z", "matchtime": 72.25599999995995, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:26:07.458463Z", "matchtime": 73.21599999995942, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:26:51.085491Z", "matchtime": 88.31999999995134, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:28:05.534539Z", "matchtime": 114.17599999995997, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:28:28.237012Z", "matchtime": 122.0479999999626, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-11T08:28:38.097410Z", "matchtime": 125.50399999996375, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-03-11T08:28:46.967115Z", "matchtime": 128.51199999996476, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:29:36.304507Z", "matchtime": 145.47199999997042, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:30:03.867334Z", "matchtime": 155.07199999997363, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:30:04.612812Z", "matchtime": 155.3279999999737, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:30:44.336607Z", "matchtime": 169.0879999999783, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-03-11T08:30:53.208760Z", "matchtime": 172.0959999999793, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:31:48.447295Z", "matchtime": 191.10399999998566, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:31:56.850582Z", "matchtime": 193.98399999998662, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:32:48.702616Z", "matchtime": 211.83999999999259, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-03-11T08:32:57.212610Z", "matchtime": 214.8479999999936, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:33:32.501507Z", "matchtime": 227.1359999999977, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-03-11T08:33:41.379807Z", "matchtime": 230.1439999999987, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:34:24.865171Z", "matchtime": 245.05600000000368, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2022-03-11T08:34:33.443781Z", "matchtime": 248.06400000000468, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:35:17.302217Z", "matchtime": 263.1680000000097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:35:17.303042Z", "matchtime": 263.1680000000097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:35:17.303664Z", "matchtime": 263.1680000000097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:36:01.196175Z", "matchtime": 278.27200000001477, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:36:01.196938Z", "matchtime": 278.27200000001477, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:36:08.543304Z", "matchtime": 280.7040000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:36:44.972096Z", "matchtime": 293.3760000000198, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:36:51.947011Z", "matchtime": 295.8080000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:36:53.774490Z", "matchtime": 296.3840000000208, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:37:28.542048Z", "matchtime": 308.48000000002486, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:37:35.488016Z", "matchtime": 310.91200000002567, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:37:36.964568Z", "matchtime": 311.48800000002586, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:37:55.244125Z", "matchtime": 317.824000000028, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 7}}
+{"datetime": "2022-03-11T08:38:03.748415Z", "matchtime": 320.832000000029, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:38:42.012166Z", "matchtime": 333.95200000003337, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 8}}
+{"datetime": "2022-03-11T08:38:50.893182Z", "matchtime": 336.96000000003437, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:39:35.040420Z", "matchtime": 352.0640000000358, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:39:39.441525Z", "matchtime": 353.6000000000356, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 0, "score_blue": 9}}
+{"datetime": "2022-03-11T08:39:47.946226Z", "matchtime": 356.6080000000353, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:40:31.728648Z", "matchtime": 371.71200000003364, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:41:08.649952Z", "matchtime": 384.25600000003226, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:41:21.940600Z", "matchtime": 388.9280000000317, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:41:30.091428Z", "matchtime": 391.7440000000314, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:41:32.316342Z", "matchtime": 392.5120000000313, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-11T08:42:05.431010Z", "matchtime": 404.03200000003005, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:42:13.503788Z", "matchtime": 406.84800000002974, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:42:18.287551Z", "matchtime": 408.5120000000296, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:42:48.886643Z", "matchtime": 419.1360000000284, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:42:51.454684Z", "matchtime": 420.03200000002835, "event": "GOAL", "payload": {"team_name": "Specijalci", "score_yellow": 1, "score_blue": 9}}
+{"datetime": "2022-03-11T08:43:00.309235Z", "matchtime": 423.040000000028, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-11T08:43:09.865261Z", "matchtime": 426.3680000000276, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 10}}
+{"datetime": "2022-03-11T08:43:18.405222Z", "matchtime": 429.37600000002726, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:44:02.155388Z", "matchtime": 444.4800000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:44:02.156170Z", "matchtime": 444.4800000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:44:13.189847Z", "matchtime": 448.3200000000252, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 11}}
+{"datetime": "2022-03-11T08:44:22.065756Z", "matchtime": 451.3280000000249, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:45:02.625542Z", "matchtime": 465.4080000000233, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 12}}
+{"datetime": "2022-03-11T08:45:11.501703Z", "matchtime": 468.416000000023, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:45:56.472655Z", "matchtime": 483.52000000002135, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:45:56.473358Z", "matchtime": 483.52000000002135, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:46:05.321818Z", "matchtime": 486.592000000021, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 13}}
+{"datetime": "2022-03-11T08:46:14.192635Z", "matchtime": 489.60000000002066, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:46:58.433561Z", "matchtime": 504.704000000019, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:47:03.610027Z", "matchtime": 506.4320000000188, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:47:06.935793Z", "matchtime": 507.64800000001867, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:47:42.254650Z", "matchtime": 519.8080000000173, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:47:49.250743Z", "matchtime": 522.2400000000171, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-11T08:47:50.720641Z", "matchtime": 522.752000000017, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:47:57.693174Z", "matchtime": 525.1840000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:48:01.014863Z", "matchtime": 526.4000000000166, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 14}}
+{"datetime": "2022-03-11T08:48:09.895155Z", "matchtime": 529.4080000000163, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:49:37.503053Z", "matchtime": 559.2320000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:49:41.917204Z", "matchtime": 560.7680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:49:49.279755Z", "matchtime": 563.3280000000155, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 15}}
+{"datetime": "2022-03-11T08:49:57.786711Z", "matchtime": 566.3360000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:50:41.564574Z", "matchtime": 581.4400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-11T08:50:41.565418Z", "matchtime": 581.4400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-11T08:50:48.206596Z", "matchtime": 583.6800000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-11T08:50:55.964735Z", "matchtime": 586.4320000000156, "event": "GOAL", "payload": {"team_name": "Salam Farmanieh", "score_yellow": 1, "score_blue": 16}}
+{"datetime": "2022-03-11T08:51:04.864857Z", "matchtime": 589.4400000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-11T08:51:35.338674Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 16, "team_name_yellow": "Specijalci", "team_name_blue": "Salam Farmanieh"}}
