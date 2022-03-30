@@ -1,0 +1,137 @@
+{"datetime": "2022-03-09T11:51:54.027420Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T11:51:54.032948Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "A.P.S", "team_name_blue": "team_031", "match_id": "sim2d_1_g1_r5_2", "halftime": 1}}
+{"datetime": "2022-03-09T11:52:27.193770Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T11:52:36.180308Z", "matchtime": 18.623999999989678, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T11:52:42.695638Z", "matchtime": 20.991999999988366, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:52:48.874059Z", "matchtime": 22.975999999987266, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T11:52:56.126964Z", "matchtime": 25.599999999985812, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T11:53:05.609325Z", "matchtime": 28.735999999984074, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T11:53:14.738731Z", "matchtime": 31.23199999998269, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T11:53:16.938187Z", "matchtime": 31.999999999982265, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T11:53:27.963476Z", "matchtime": 35.77599999998017, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T11:53:28.711369Z", "matchtime": 36.095999999979995, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:54:11.791842Z", "matchtime": 50.8799999999718, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T11:54:12.890256Z", "matchtime": 51.199999999971624, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:54:37.764911Z", "matchtime": 57.79199999996797, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T11:54:54.336981Z", "matchtime": 63.29599999996492, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T11:54:58.388313Z", "matchtime": 64.63999999996418, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T11:55:00.586133Z", "matchtime": 65.34399999996378, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T11:55:11.681963Z", "matchtime": 69.11999999996169, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:55:55.406746Z", "matchtime": 82.62399999995421, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T11:56:30.295446Z", "matchtime": 93.43999999995305, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:56:38.361054Z", "matchtime": 95.87199999995386, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T11:56:39.833838Z", "matchtime": 96.38399999995403, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T11:56:46.083188Z", "matchtime": 98.55999999995475, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T11:57:15.538954Z", "matchtime": 108.54399999995809, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:57:41.352930Z", "matchtime": 117.11999999996095, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T11:57:49.081112Z", "matchtime": 119.74399999996183, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T11:58:01.218093Z", "matchtime": 123.263999999963, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T11:58:12.195443Z", "matchtime": 126.14399999996397, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T11:58:31.686587Z", "matchtime": 132.223999999966, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T11:58:40.130224Z", "matchtime": 134.84799999996687, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T11:59:17.007507Z", "matchtime": 147.32799999997104, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T11:59:30.589249Z", "matchtime": 151.55199999997245, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T11:59:51.093066Z", "matchtime": 158.5919999999748, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T11:59:57.335894Z", "matchtime": 160.7039999999755, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:00:02.885761Z", "matchtime": 162.43199999997609, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:00:36.753934Z", "matchtime": 173.69599999997985, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:00:49.988496Z", "matchtime": 178.23999999998136, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:00:51.448770Z", "matchtime": 178.75199999998154, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:00:57.343352Z", "matchtime": 180.86399999998224, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:01:36.370719Z", "matchtime": 193.3439999999864, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:01:37.847020Z", "matchtime": 193.85599999998658, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:01:39.326905Z", "matchtime": 194.36799999998675, "event": "GOAL", "payload": {"team_name": "A.P.S", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2022-03-09T12:01:48.215563Z", "matchtime": 197.37599999998776, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T12:02:32.484329Z", "matchtime": 210.62399999999218, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:02:38.341201Z", "matchtime": 212.4799999999928, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:02:38.341947Z", "matchtime": 212.4799999999928, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:03:23.384403Z", "matchtime": 227.58399999999784, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:03:23.385264Z", "matchtime": 227.58399999999784, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:03:50.792050Z", "matchtime": 236.60800000000086, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:04:25.261083Z", "matchtime": 247.2320000000044, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:04:27.444299Z", "matchtime": 247.93600000000464, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:04:28.547324Z", "matchtime": 248.32000000000477, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:04:43.300502Z", "matchtime": 253.44000000000648, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:04:59.542072Z", "matchtime": 258.68800000000823, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:05:14.235282Z", "matchtime": 263.4240000000098, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:05:25.989440Z", "matchtime": 267.07200000001103, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:05:30.762957Z", "matchtime": 268.5440000000115, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:06:02.427445Z", "matchtime": 279.42400000001516, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:06:09.792188Z", "matchtime": 281.920000000016, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:06:10.526078Z", "matchtime": 282.1760000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:06:14.579725Z", "matchtime": 283.64800000001657, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:06:21.555852Z", "matchtime": 285.95200000001734, "event": "GOAL", "payload": {"team_name": "A.P.S", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2022-03-09T12:06:30.094140Z", "matchtime": 288.96000000001834, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T12:07:13.416962Z", "matchtime": 304.0640000000234, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:07:13.417678Z", "matchtime": 304.0640000000234, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:07:19.302881Z", "matchtime": 306.11200000002407, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:07:20.406986Z", "matchtime": 306.4960000000242, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:07:21.862480Z", "matchtime": 306.94400000002435, "event": "GOAL", "payload": {"team_name": "team_031", "score_yellow": 2, "score_blue": 1}}
+{"datetime": "2022-03-09T12:07:30.745677Z", "matchtime": 309.95200000002535, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T12:08:14.459011Z", "matchtime": 325.0560000000304, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:08:14.459764Z", "matchtime": 325.0560000000304, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:08:29.504397Z", "matchtime": 329.920000000032, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:08:32.461496Z", "matchtime": 330.94400000003236, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:08:59.629471Z", "matchtime": 339.90400000003535, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:09:08.101020Z", "matchtime": 342.7840000000363, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:09:17.664893Z", "matchtime": 346.0480000000365, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:09:18.771519Z", "matchtime": 346.4320000000364, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:10:01.369374Z", "matchtime": 360.3840000000349, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:10:02.099232Z", "matchtime": 360.57600000003487, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:10:04.719382Z", "matchtime": 361.53600000003473, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:10:27.150491Z", "matchtime": 369.2800000000339, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:10:31.935067Z", "matchtime": 370.9440000000337, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:10:44.830777Z", "matchtime": 375.48800000003325, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:11:11.306857Z", "matchtime": 383.9360000000323, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:11:12.423644Z", "matchtime": 384.38400000003224, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:11:24.527843Z", "matchtime": 388.09600000003184, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:11:28.578582Z", "matchtime": 389.5680000000317, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:11:31.522520Z", "matchtime": 390.5920000000316, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:12:17.080436Z", "matchtime": 404.67200000003004, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:12:20.761598Z", "matchtime": 405.6960000000299, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:12:22.227570Z", "matchtime": 406.0800000000298, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:12:28.822627Z", "matchtime": 407.7440000000297, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:12:28.823124Z", "matchtime": 407.7440000000297, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:12:31.030353Z", "matchtime": 408.5120000000296, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:12:44.982088Z", "matchtime": 412.9280000000291, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:13:04.424611Z", "matchtime": 417.85600000002853, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:13:10.338509Z", "matchtime": 419.7760000000284, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:13:13.271182Z", "matchtime": 420.80000000002826, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:13:52.269741Z", "matchtime": 434.1120000000268, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:13:54.828407Z", "matchtime": 434.8800000000267, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:13:57.773231Z", "matchtime": 435.9040000000266, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:14:37.246265Z", "matchtime": 448.64000000002517, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:14:42.002828Z", "matchtime": 449.98400000002505, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:14:52.706247Z", "matchtime": 453.6320000000246, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:15:13.675212Z", "matchtime": 460.1600000000239, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:15:14.777309Z", "matchtime": 460.4800000000239, "event": "GOAL", "payload": {"team_name": "A.P.S", "score_yellow": 3, "score_blue": 1}}
+{"datetime": "2022-03-09T12:15:24.384377Z", "matchtime": 463.48800000002353, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T12:16:08.723659Z", "matchtime": 478.59200000002187, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:16:08.724382Z", "matchtime": 478.59200000002187, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:16:08.724919Z", "matchtime": 478.59200000002187, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:16:08.725416Z", "matchtime": 478.59200000002187, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T12:16:08.725893Z", "matchtime": 478.59200000002187, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:16:38.870503Z", "matchtime": 488.83200000002074, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:16:53.172332Z", "matchtime": 493.6960000000202, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:16:53.173049Z", "matchtime": 493.6960000000202, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:17:41.112991Z", "matchtime": 508.80000000001854, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:17:47.326660Z", "matchtime": 510.59200000001834, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:18:19.994483Z", "matchtime": 521.6000000000172, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:18:32.074181Z", "matchtime": 525.4400000000167, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:18:48.983659Z", "matchtime": 531.1360000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:19:05.076730Z", "matchtime": 536.7040000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:19:32.939587Z", "matchtime": 545.6000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:19:35.483404Z", "matchtime": 546.2400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:19:38.748471Z", "matchtime": 547.0720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:19:53.074764Z", "matchtime": 551.8720000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T12:19:57.100516Z", "matchtime": 553.2160000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T12:20:34.097676Z", "matchtime": 561.0240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:20:35.193832Z", "matchtime": 561.3440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:20:46.888174Z", "matchtime": 564.9280000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:21:34.114571Z", "matchtime": 579.0080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T12:21:38.115336Z", "matchtime": 580.0320000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:21:47.199472Z", "matchtime": 581.9520000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:22:39.513829Z", "matchtime": 594.3680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T12:22:42.071224Z", "matchtime": 595.1360000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T12:22:47.930719Z", "matchtime": 597.0560000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T12:22:56.704714Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 3, "score_blue": 1, "team_name_yellow": "A.P.S", "team_name_blue": "team_031"}}

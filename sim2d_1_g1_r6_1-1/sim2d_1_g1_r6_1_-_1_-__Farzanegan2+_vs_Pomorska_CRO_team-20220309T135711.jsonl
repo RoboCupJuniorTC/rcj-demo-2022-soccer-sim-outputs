@@ -1,0 +1,105 @@
+{"datetime": "2022-03-09T13:57:13.157033Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T13:57:13.162218Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Pomorska CRO team", "team_name_blue": " Farzanegan2+", "match_id": "sim2d_1_g1_r6_1", "halftime": 1}}
+{"datetime": "2022-03-09T13:57:25.774741Z", "matchtime": 5.759999999996808, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-03-09T13:57:32.658979Z", "matchtime": 8.76799999999514, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T13:58:33.423970Z", "matchtime": 30.911999999982868, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T13:58:43.572318Z", "matchtime": 34.04799999998113, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T13:59:16.149812Z", "matchtime": 45.50399999997478, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T13:59:16.150606Z", "matchtime": 45.50399999997478, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T13:59:54.827134Z", "matchtime": 57.79199999996797, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-03-09T14:00:03.685889Z", "matchtime": 60.7999999999663, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:00:58.310749Z", "matchtime": 77.24799999995719, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:01:23.643285Z", "matchtime": 85.63199999995254, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:01:33.924123Z", "matchtime": 89.08799999995159, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:01:50.448061Z", "matchtime": 94.84799999995352, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:02:00.746771Z", "matchtime": 98.17599999995463, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:02:35.410019Z", "matchtime": 109.95199999995856, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:02:35.766719Z", "matchtime": 110.01599999995858, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:02:38.702440Z", "matchtime": 110.9759999999589, "event": "GOAL", "payload": {"team_name": "Pomorska CRO team", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2022-03-09T14:02:47.248470Z", "matchtime": 113.9839999999599, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-09T14:03:32.146814Z", "matchtime": 129.08799999996495, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:03:43.241940Z", "matchtime": 132.8639999999662, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:03:51.350250Z", "matchtime": 135.67999999996715, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:03:56.502167Z", "matchtime": 137.3439999999677, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:04:27.597427Z", "matchtime": 148.03199999997128, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2022-03-09T14:04:36.878491Z", "matchtime": 151.03999999997228, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:05:43.328030Z", "matchtime": 169.9839999999786, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:05:52.160800Z", "matchtime": 172.54399999997946, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:06:02.088936Z", "matchtime": 175.42399999998042, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:06:08.717591Z", "matchtime": 177.4719999999811, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:06:27.487691Z", "matchtime": 183.93599999998327, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:06:38.154185Z", "matchtime": 187.6479999999845, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:06:51.716325Z", "matchtime": 191.8079999999859, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2022-03-09T14:07:01.675568Z", "matchtime": 194.8159999999869, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:08:06.854999Z", "matchtime": 217.02399999999432, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:08:26.690608Z", "matchtime": 223.80799999999658, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:08:38.118943Z", "matchtime": 227.83999999999793, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:08:57.579342Z", "matchtime": 234.43200000000013, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:08:59.785139Z", "matchtime": 235.13600000000037, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 5}}
+{"datetime": "2022-03-09T14:09:08.693549Z", "matchtime": 238.14400000000137, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:10:23.228548Z", "matchtime": 262.5280000000095, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:10:26.916012Z", "matchtime": 263.80800000000994, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:10:45.654056Z", "matchtime": 270.2080000000121, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:11:15.520789Z", "matchtime": 280.1280000000154, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:11:19.162275Z", "matchtime": 281.0880000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:11:33.077834Z", "matchtime": 285.3120000000171, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:12:10.186197Z", "matchtime": 297.8560000000213, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:12:23.443781Z", "matchtime": 302.4000000000228, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:12:27.111260Z", "matchtime": 303.5520000000232, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:12:55.153376Z", "matchtime": 312.5760000000262, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:13:16.416589Z", "matchtime": 318.65600000002826, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:13:33.697962Z", "matchtime": 324.4160000000302, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 6}}
+{"datetime": "2022-03-09T14:13:42.551245Z", "matchtime": 327.4240000000312, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:14:44.986816Z", "matchtime": 348.48000000003617, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:14:51.940052Z", "matchtime": 350.7840000000359, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:15:08.472157Z", "matchtime": 356.28800000003537, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:15:26.763087Z", "matchtime": 361.2160000000348, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:15:28.966028Z", "matchtime": 361.9840000000347, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:15:34.104629Z", "matchtime": 363.7760000000345, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:15:40.330555Z", "matchtime": 365.88800000003425, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:15:56.484064Z", "matchtime": 371.3920000000337, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:16:18.557876Z", "matchtime": 378.88000000003285, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:16:24.795689Z", "matchtime": 380.9920000000326, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:16:34.362081Z", "matchtime": 384.38400000003224, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:17:05.636636Z", "matchtime": 395.13600000003106, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:17:07.099588Z", "matchtime": 395.584000000031, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:17:08.574235Z", "matchtime": 396.0960000000309, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:17:12.975455Z", "matchtime": 397.63200000003076, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:17:18.486203Z", "matchtime": 399.4880000000306, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:17:50.097867Z", "matchtime": 410.2400000000294, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:18:02.957762Z", "matchtime": 414.5920000000289, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:18:13.954874Z", "matchtime": 418.3040000000285, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:18:37.455589Z", "matchtime": 425.34400000002773, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:18:51.377865Z", "matchtime": 429.4400000000273, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:18:52.115895Z", "matchtime": 429.69600000002725, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:19:03.512022Z", "matchtime": 433.40800000002685, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:19:24.081277Z", "matchtime": 440.44800000002607, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:20:09.560029Z", "matchtime": 453.95200000002455, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:20:12.151258Z", "matchtime": 454.8480000000245, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:20:12.886353Z", "matchtime": 455.1040000000245, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:20:23.946432Z", "matchtime": 458.88000000002404, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:20:25.791083Z", "matchtime": 459.52000000002397, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 7}}
+{"datetime": "2022-03-09T14:20:34.646500Z", "matchtime": 462.52800000002367, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:21:02.198265Z", "matchtime": 472.0000000000226, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 8}}
+{"datetime": "2022-03-09T14:21:10.702913Z", "matchtime": 475.00800000002226, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:22:12.101055Z", "matchtime": 495.93600000001993, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:22:29.339286Z", "matchtime": 501.8880000000193, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:22:31.545425Z", "matchtime": 502.6560000000192, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:22:55.745410Z", "matchtime": 511.04000000001827, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:23:13.022651Z", "matchtime": 517.0560000000177, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:23:16.337635Z", "matchtime": 518.1440000000175, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-09T14:23:45.746281Z", "matchtime": 528.3200000000164, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:23:51.976113Z", "matchtime": 530.4960000000161, "event": "GOAL", "payload": {"team_name": " Farzanegan2+", "score_yellow": 1, "score_blue": 9}}
+{"datetime": "2022-03-09T14:24:00.854134Z", "matchtime": 533.5040000000158, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-09T14:24:55.864458Z", "matchtime": 552.3200000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:25:21.573836Z", "matchtime": 561.1520000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:25:27.099503Z", "matchtime": 563.0720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-09T14:25:39.208439Z", "matchtime": 567.1680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:25:39.945313Z", "matchtime": 567.4240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-09T14:25:53.574965Z", "matchtime": 572.2240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:26:13.447674Z", "matchtime": 579.0080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:26:23.009055Z", "matchtime": 582.2720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-09T14:26:32.946022Z", "matchtime": 585.7920000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-09T14:26:37.708278Z", "matchtime": 587.3280000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-09T14:26:57.173496Z", "matchtime": 594.1120000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-09T14:27:15.175676Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 9, "team_name_yellow": "Pomorska CRO team", "team_name_blue": " Farzanegan2+"}}
