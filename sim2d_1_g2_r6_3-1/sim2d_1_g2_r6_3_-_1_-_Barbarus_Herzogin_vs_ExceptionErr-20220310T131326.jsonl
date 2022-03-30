@@ -1,0 +1,63 @@
+{"datetime": "2022-03-10T13:13:28.662251Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:13:28.666898Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "ExceptionErr", "team_name_blue": "Barbarus Herzogin", "match_id": "sim2d_1_g2_r6_3", "halftime": 1}}
+{"datetime": "2022-03-10T13:14:22.109623Z", "matchtime": 24.383999999986486, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:14:24.639458Z", "matchtime": 25.40799999998592, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-10T13:14:26.806838Z", "matchtime": 26.30399999998542, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:15:08.719735Z", "matchtime": 41.15199999997719, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:15:51.895176Z", "matchtime": 56.38399999996875, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:16:32.936480Z", "matchtime": 65.72799999996357, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:16:46.081997Z", "matchtime": 70.27199999996105, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2022-03-10T13:16:54.972720Z", "matchtime": 73.27999999995939, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:17:36.156080Z", "matchtime": 86.9759999999518, "event": "GOAL", "payload": {"team_name": "Barbarus Herzogin", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2022-03-10T13:17:45.434116Z", "matchtime": 89.98399999995189, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-10T13:19:32.618281Z", "matchtime": 125.6319999999638, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:19:41.440348Z", "matchtime": 128.12799999996463, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:19:42.532908Z", "matchtime": 128.38399999996471, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:19:55.816722Z", "matchtime": 132.99199999996625, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 2, "score_blue": 1}}
+{"datetime": "2022-03-10T13:20:04.705017Z", "matchtime": 135.99999999996726, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:20:48.467588Z", "matchtime": 150.65599999997215, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:21:00.254133Z", "matchtime": 154.4319999999734, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:21:57.573842Z", "matchtime": 173.5679999999798, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:22:00.529998Z", "matchtime": 174.59199999998015, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:22:11.912562Z", "matchtime": 178.0479999999813, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-03-10T13:22:47.565980Z", "matchtime": 189.6959999999852, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:23:46.825335Z", "matchtime": 208.76799999999156, "event": "GOAL", "payload": {"team_name": "Barbarus Herzogin", "score_yellow": 2, "score_blue": 2}}
+{"datetime": "2022-03-10T13:24:00.071070Z", "matchtime": 211.77599999999256, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-10T13:25:44.370191Z", "matchtime": 242.49600000000282, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:25:55.271363Z", "matchtime": 244.5440000000035, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:26:14.461413Z", "matchtime": 251.0720000000057, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 3, "score_blue": 2}}
+{"datetime": "2022-03-10T13:26:23.364763Z", "matchtime": 254.0800000000067, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:27:13.032837Z", "matchtime": 268.92800000001165, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:27:25.194447Z", "matchtime": 273.024000000013, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:27:40.706936Z", "matchtime": 278.3360000000148, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 4, "score_blue": 2}}
+{"datetime": "2022-03-10T13:27:49.635754Z", "matchtime": 281.3440000000158, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:28:54.951351Z", "matchtime": 302.6560000000229, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:29:03.455959Z", "matchtime": 305.5360000000239, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-03-10T13:29:40.001265Z", "matchtime": 317.76000000002796, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:29:51.795373Z", "matchtime": 321.7920000000293, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:30:29.980804Z", "matchtime": 332.800000000033, "event": "GOAL", "payload": {"team_name": "Barbarus Herzogin", "score_yellow": 4, "score_blue": 3}}
+{"datetime": "2022-03-10T13:30:38.524518Z", "matchtime": 335.808000000034, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-10T13:32:34.069248Z", "matchtime": 371.3280000000337, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:32:44.421086Z", "matchtime": 374.84800000003327, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-10T13:32:56.241250Z", "matchtime": 378.75200000003287, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 5, "score_blue": 3}}
+{"datetime": "2022-03-10T13:33:04.786491Z", "matchtime": 381.7600000000325, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:33:58.670204Z", "matchtime": 400.1280000000305, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:34:06.825220Z", "matchtime": 402.9440000000302, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:34:16.789617Z", "matchtime": 406.4000000000298, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:34:42.629449Z", "matchtime": 415.23200000002885, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:35:15.601359Z", "matchtime": 423.29600000002796, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:35:39.677961Z", "matchtime": 427.58400000002746, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:35:42.988236Z", "matchtime": 428.67200000002737, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:36:02.153244Z", "matchtime": 435.00800000002664, "event": "GOAL", "payload": {"team_name": "ExceptionErr", "score_yellow": 6, "score_blue": 3}}
+{"datetime": "2022-03-10T13:36:10.716986Z", "matchtime": 438.01600000002634, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-03-10T13:36:42.317383Z", "matchtime": 448.8320000000251, "event": "GOAL", "payload": {"team_name": "Barbarus Herzogin", "score_yellow": 6, "score_blue": 4}}
+{"datetime": "2022-03-10T13:36:51.237888Z", "matchtime": 451.8400000000248, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-03-10T13:37:53.387189Z", "matchtime": 471.2320000000227, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:38:43.084971Z", "matchtime": 486.848000000021, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:38:45.661862Z", "matchtime": 487.68000000002087, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-03-10T13:38:48.623578Z", "matchtime": 488.7680000000207, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:39:41.427837Z", "matchtime": 506.4960000000188, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-03-10T13:41:15.899188Z", "matchtime": 534.4640000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-03-10T13:42:27.426143Z", "matchtime": 558.6560000000155, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-03-10T13:43:56.869784Z", "matchtime": 588.8000000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-03-10T13:44:32.591968Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 6, "score_blue": 4, "team_name_yellow": "ExceptionErr", "team_name_blue": "Barbarus Herzogin"}}
