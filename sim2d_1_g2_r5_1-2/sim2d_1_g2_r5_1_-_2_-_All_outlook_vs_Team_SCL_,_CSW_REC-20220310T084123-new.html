@@ -28,7 +28,6 @@
     <script type="module" src="https://cyberbotics.com/wwi/R2022a/WebotsView.js"></script>
     <script>
       var max_time = 0;
-      var goals = {};
       var view;
       var animation;
 
@@ -39,8 +38,8 @@
         if (is_running) {
             play_btn.click();
         }
-        animation._step = secs*31;
-        animation._previousStep = secs*31 - 1;
+        var to_step = secs*31;
+        animation._updateAnimationState(to_step);
         animation._timeSlider.setValue(Math.min((secs / max_time) * 100, 100));
         ev.stopPropagation();
         if (is_running) {
@@ -69,7 +68,6 @@
 
             if (item.event == "GOAL") {
               message = '(' + item.payload.team_name + ')';
-              goals[Math.floor(item.matchtime*32)] = [item.payload.score_yellow, item.payload.score_blue];
             }
 
             html += '<div><a href="#' + parseInt(item.matchtime) + '" onclick="event_click(event,' + item.matchtime + ');">' + time + '</a> - ' + item.event + ' ' + message + '</div>';
